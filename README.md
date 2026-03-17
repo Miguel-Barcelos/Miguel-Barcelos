@@ -1,62 +1,51 @@
-# Miguel Barcelos
+# 👨‍💻 Miguel Barcelos 
 
 **`Control and Automation Engineer`**
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+Me chamo Miguel Barcelos, Engenheiro de Controle e Automação com experiência em sistemas mecatrônicos, embarcados e desenvolvimento de soluções aplicadas à engenharia. Possuo projetos envolvendo eletrônica, controle, visão computacional, redes neurais e robótica.
+
+Tenho interesse em atuar na área automotiva, com foco em desenvolvimento eletrônico, sistemas mecatrônicos e sistemas embarcados em tempo real.
+
 ---
-p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+
+### 📫 Contato
+
+<p align="left">
+    <a href="mailto:miguelbarcelosouza@gmail.com">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="email" 
+            title="Entre em contato por email" 
+            src="https://custom-icon-badges.demolab.com/badge/email-contato-red?style=for-the-badge&logo=mail&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://linkedin.com/in/miguel-barcelos-718831214/">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="linkedin" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/linkedin-perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    </a>
+</p>
 
+---
 
-
-
-
-### Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="MATLAB"
-    title="MATLAB" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Cpp" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="C++"
+    title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
@@ -64,21 +53,66 @@ p align="left">
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MATLAB" 
+    title="MATLAB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="OpenCV" 
+    title="OpenCV"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" 
 />
 
 <br/>
 <br/>
 
+---
+
+### ⚙️ Áreas de Atuação
+
+- Controle de Sistemas  
+- Automação Industrial  
+- Sistemas Embarcados  
+- Controle de Motores Elétricos  
+- Visão Computacional  
+- Redes Neurais  
+- Comunicação Industrial (CAN, Modbus, PROFINET)  
+
+---
+
 ### 📊 Estatísticas
 
 <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Miguel-Barcelos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Barcelos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
