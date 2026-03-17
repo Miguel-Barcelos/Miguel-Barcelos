@@ -10,8 +10,6 @@ Tenho interesse em projetos de desenvolvimento de tecnologia envolvendo soluçõ
 Experience in mechatronics projects, embedded systems, and the development of solutions applied to engineering. I have projects involving computer vision, CNC programming, artificial neural networks, and control.
 I am interested in technology development projects involving solutions to real-world problems; I enjoy areas of electronic development, mechatronic systems, and real-time embedded systems.
 
----
-
 <p align="left">
     <a href="mailto:miguelbarcelosouza@gmail.com">
         <img 
