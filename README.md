@@ -1,17 +1,18 @@
-# 👨‍💻 Miguel Barcelos 
+# Miguel Barcelos 
 
 **`Control and Automation Engineer`**
 
-Me chamo Miguel Barcelos, Engenheiro de Controle e Automação com experiência em sistemas mecatrônicos, embarcados e desenvolvimento de soluções aplicadas à engenharia. Possuo projetos envolvendo eletrônica, controle, visão computacional, redes neurais e robótica.
+[BR]
+Experiência em projetos mecatrônicos, sistemas embarcados e desenvolvimento de soluções aplicadas à engenharia. Possuo projetos envolvendo de visão computacional, programação de CNC, rede neurais artificias e controle.
+Tenho interesse em projetos de desenvolvimento de tecnologia envolvendo soluções de problemas reais, gosto de áreas de desenvolvimento eletrônico, sistemas mecatrônicos e sistemas embarcados em tempo real.
 
-Tenho interesse em atuar na área automotiva, com foco em desenvolvimento eletrônico, sistemas mecatrônicos e sistemas embarcados em tempo real.
-
+[EN]
+Experience in mechatronics projects, embedded systems, and the development of solutions applied to engineering. I have projects involving computer vision, CNC programming, artificial neural networks, and control.
+I am interested in technology development projects involving solutions to real-world problems; I enjoy areas of electronic development, mechatronic systems, and real-time embedded systems.
 ---
 
-### 📫 Contato
-
 <p align="left">
-    <a href="mailto:miguelbarcelosouza@gmail.com">
+    <a href="miguelbarcelosouza@gmail.com">
         <img 
             alt="email"  
             src="https://custom-icon-badges.demolab.com/badge/email-contato-red?style=for-the-badge&logo=mail&logoColor=white"
@@ -27,7 +28,16 @@ Tenho interesse em atuar na área automotiva, com foco em desenvolvimento eletr�
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Technologys
+
+<img 
+    align="left" 
+    alt="MATLAB" 
+    title="MATLAB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -55,11 +65,11 @@ Tenho interesse em atuar na área automotiva, com foco em desenvolvimento eletr�
 />
 <img 
     align="left" 
-    alt="MATLAB" 
-    title="MATLAB"
+    alt="OpenCV" 
+    title="OpenCV"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" 
 />
 <img 
     align="left" 
@@ -68,14 +78,6 @@ Tenho interesse em atuar na área automotiva, com foco em desenvolvimento eletr�
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="OpenCV" 
-    title="OpenCV"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" 
 />
 <img 
     align="left" 
@@ -93,27 +95,12 @@ Tenho interesse em atuar na área automotiva, com foco em desenvolvimento eletr�
     title="SolidEdge"
     width="30px" 
     style="padding-right: 10px;"  
-    src="https://commons.wikimedia.org/wiki/File:Solid_Edge_Logo.svg" />
+    src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Solid_Edge_Logo.svg" />
 />
 
 <br/>
-<br/>
 
 ---
-
-### ⚙️ Áreas de Atuação
-
-- Controle de Sistemas  
-- Automação Industrial  
-- Sistemas Embarcados  
-- Controle de Motores Elétricos  
-- Visão Computacional  
-- Redes Neurais  
-- Comunicação Industrial (CAN, Modbus, PROFINET)  
-
----
-
-### 📊 Estatísticas
 
 <p>
   <img 
