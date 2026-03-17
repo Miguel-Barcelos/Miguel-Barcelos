@@ -13,15 +13,13 @@ Tenho interesse em atuar na √°rea automotiva, com foco em desenvolvimento eletr√
 <p align="left">
     <a href="mailto:miguelbarcelosouza@gmail.com">
         <img 
-            alt="email" 
-            title="Entre em contato por email" 
+            alt="email"  
             src="https://custom-icon-badges.demolab.com/badge/email-contato-red?style=for-the-badge&logo=mail&logoColor=white"
         />
     </a>
     <a href="https://linkedin.com/in/miguel-barcelos-718831214/">
         <img 
             alt="linkedin" 
-            title="Meu LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/linkedin-perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
@@ -78,6 +76,24 @@ Tenho interesse em atuar na √°rea automotiva, com foco em desenvolvimento eletr√
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Fusion360" 
+    title="Fusion360"
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" />
+           
+/>
+
+<img 
+    align="left" 
+    alt="SolidEdge" 
+    title="SolidEdge"
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://commons.wikimedia.org/wiki/File:Solid_Edge_Logo.svg" />
 />
 
 <br/>
