@@ -9,10 +9,11 @@ Tenho interesse em projetos de desenvolvimento de tecnologia envolvendo soluçõ
 [EN]
 Experience in mechatronics projects, embedded systems, and the development of solutions applied to engineering. I have projects involving computer vision, CNC programming, artificial neural networks, and control.
 I am interested in technology development projects involving solutions to real-world problems; I enjoy areas of electronic development, mechatronic systems, and real-time embedded systems.
+
 ---
 
 <p align="left">
-    <a href="miguelbarcelosouza@gmail.com">
+    <a href="mailto:miguelbarcelosouza@gmail.com">
         <img 
             alt="email"  
             src="https://custom-icon-badges.demolab.com/badge/email-contato-red?style=for-the-badge&logo=mail&logoColor=white"
@@ -38,7 +39,14 @@ I am interested in technology development projects involving solutions to real-w
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="C"
@@ -55,14 +63,7 @@ I am interested in technology development projects involving solutions to real-w
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="OpenCV" 
@@ -81,21 +82,35 @@ I am interested in technology development projects involving solutions to real-w
 />
 <img 
     align="left" 
+    alt="KiCAD" 
+    title="KiCAD"
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://upload.wikimedia.org/wikipedia/commons/9/97/Kicad_logo_new.png"     
+/>
+<img 
+    align="left" 
+    alt="KiCAD" 
+    title="KiCAD"
+    width="30px" 
+    style="padding-right: 10px;"  
+    src="https://upload.wikimedia.org/wikipedia/commons/9/97/Kicad_logo_new.png"     
+/>
+<img 
+    align="left" 
     alt="Fusion360" 
     title="Fusion360"
     width="30px" 
     style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" />
-           
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg"     
 />
-
 <img 
     align="left" 
     alt="SolidEdge" 
     title="SolidEdge"
     width="30px" 
     style="padding-right: 10px;"  
-    src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Solid_Edge_Logo.svg" />
+    src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Solid_Edge_Logo.svg"
 />
 
 <br/>
