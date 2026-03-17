@@ -86,15 +86,7 @@ I am interested in technology development projects involving solutions to real-w
     title="KiCAD"
     width="30px" 
     style="padding-right: 10px;"  
-    src="https://upload.wikimedia.org/wikipedia/commons/9/97/Kicad_logo_new.png"     
-/>
-<img 
-    align="left" 
-    alt="KiCAD" 
-    title="KiCAD"
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://upload.wikimedia.org/wikipedia/commons/9/97/Kicad_logo_new.png"     
+    src="https://upload.wikimedia.org/wikipedia/commons/6/65/KiCad_logo_square.svg"     
 />
 <img 
     align="left" 
