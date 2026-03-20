@@ -59,7 +59,7 @@ I am interested in technology development projects involving solutions to real-w
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"   
 />
 <img 
     align="left" 
